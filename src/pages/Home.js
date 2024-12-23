@@ -7,7 +7,7 @@ export default function Home() {
 
     const data = {
         title: "Zuitt Movie",
-        content: "Enjoy your weekend with us",
+        content: "enjoy with us",
         destination: "/Movie",
     }
 
@@ -22,7 +22,7 @@ export default function Home() {
             {/* Adding image */}
             <div className="my-5">
                 <img 
-                    src="https://i.pinimg.com/736x/2e/12/69/2e12693d3f5556a62eca2251897e8655.jpg" 
+                    src="https://howtodrawforkids.com/wp-content/uploads/2022/05/how-to-draw-anime-eyes.jpg" 
                     alt="Movie Night" 
                     className="img-fluid rounded shadow-lg"
                 />
